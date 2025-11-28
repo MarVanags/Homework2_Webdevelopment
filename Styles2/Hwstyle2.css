@@ -67,9 +67,8 @@ header .globalnav ul li a {
 
 header .globalnav ul li:hover {
     background-color: green;
-    color: yellow;
     transition: transform .2s;
-    box-shadow: 9px 9px;
+    box-shadow: 9px 9px yellow;
     transform: scale(1.1);
 }
 
